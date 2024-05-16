@@ -1,0 +1,23 @@
+[33mcommit 5bbefe2a688d7e51793ef77da7a4d1ade191a4c8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Seamless <writetoseamless@gmail.com git config --global user.email writetoseamless@gmail.com>
+Date:   Thu May 16 07:18:18 2024 +0000
+
+    deployment file added
+
+[33mcommit dfab088a598fee460ef48af56f1931964c032d36[m
+Author: Seamless <writetoseamless@gmail.com git config --global user.email writetoseamless@gmail.com>
+Date:   Thu May 16 07:14:07 2024 +0000
+
+    tools added
+
+[33mcommit 2a555e78087c0388f26ea9edfd808be5392c9ccd[m
+Author: Seamless <writetoseamless@gmail.com git config --global user.email writetoseamless@gmail.com>
+Date:   Thu May 16 02:34:04 2024 +0000
+
+    my first commit
+
+[33mcommit 061471f3415e14569ed5494f2f8743b9a54ccf2e[m
+Author: Cloud User <ec2-user@ip-172-31-21-169.us-west-2.compute.internal>
+Date:   Mon May 6 04:12:36 2024 +0000
+
+    .gitignore file created
